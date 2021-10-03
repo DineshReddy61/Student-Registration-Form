@@ -1,1 +1,1 @@
-# Student-Registration-Form
+A student registration form is used to register students for a course.Students can provide their contact information, detail their academic history, list extracurriculars and additional interests etc.After submitting the registration form, ur data will be stored in a database.
